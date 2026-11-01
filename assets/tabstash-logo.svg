@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tabstash</title>
+  <desc id="desc">A stack of saved browser tabs with a coral bookmark.</desc>
+  <rect width="512" height="512" rx="112" fill="#22265f"/>
+  <path d="M151 105h192a28 28 0 0 1 28 28v246a28 28 0 0 1-28 28H151a28 28 0 0 1-28-28V133a28 28 0 0 1 28-28Z" fill="#96d9d2" transform="rotate(8 249 256)"/>
+  <path d="M142 126h192a28 28 0 0 1 28 28v246a28 28 0 0 1-28 28H142a28 28 0 0 1-28-28V154a28 28 0 0 1 28-28Z" fill="#fff" transform="rotate(-7 242 277)"/>
+  <rect x="147" y="139" width="242" height="260" rx="30" fill="#f5f6ff"/>
+  <path d="M177 139h72v24h-72a14 14 0 0 1-14-14v-4a6 6 0 0 1 6-6Z" fill="#f5f6ff"/>
+  <circle cx="183" cy="178" r="8" fill="#7e85c7"/>
+  <circle cx="209" cy="178" r="8" fill="#7e85c7"/>
+  <circle cx="235" cy="178" r="8" fill="#7e85c7"/>
+  <rect x="178" y="214" width="180" height="14" rx="7" fill="#d9dcef"/>
+  <rect x="178" y="244" width="126" height="14" rx="7" fill="#d9dcef"/>
+  <path d="M236 277a20 20 0 0 1 20-20h32a20 20 0 0 1 20 20v88l-36-24-36 24Z" fill="#ff806b"/>
+</svg>
